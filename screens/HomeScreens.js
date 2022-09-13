@@ -1,4 +1,4 @@
-import { View, Text, SafeAreaView, Image, TextInput, ScrollView, Touchable, TouchableOpacity } from 'react-native';
+import { View, Text, SafeAreaView, Image, TextInput, ScrollView, TouchableOpacity } from 'react-native';
 import React, { useEffect, useLayoutEffect , useState} from 'react';
 import {useNavigation} from '@react-navigation/native';
 import {UserIcon,ChevronDownIcon,SearchIcon,AdjustmentsIcon, GlobeAltIcon} from 'react-native-heroicons/outline';
